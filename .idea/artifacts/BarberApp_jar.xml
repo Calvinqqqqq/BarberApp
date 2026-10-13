@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="BarberApp:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/BarberApp_jar</output-path>
-    <root id="archive" name="BarberApp.jar">
-      <element id="module-output" name="BarberApp" />
-    </root>
-  </artifact>
-</component>
